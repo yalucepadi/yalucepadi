@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://cdn.dribbble.com/userupload/21500334/file/original-cbf92297277a77c2cf20b7f81358b1a5.gif)">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://cdn.dribbble.com/userupload/21500334/file/original-cbf92297277a77c2cf20b7f81358b1a5.gif">
 
 - 🎓 **Systems Engineer** graduate from UPN (2015-2020)
 - 💼 Currently working as **Back End Developer Java** at **NTT DATA**
@@ -55,13 +55,21 @@
   <img src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
   <img src="https://img.shields.io/badge/Apache_Camel-28A745?style=for-the-badge&logo=apache-camel&logoColor=white" alt="Apache Camel"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
 </p>
 
 ### Databases & Technologies
 <p align="left">
+  
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
 ### Cloud & DevOps
@@ -108,15 +116,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yairccepaya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yalucepadi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yairccepaya&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalucepadi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yairccepaya&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yalucepadi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🏆 Key Achievements
