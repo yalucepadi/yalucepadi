@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://cdn.dribbble.com/userupload/21500334/file/original-cbf92297277a77c2cf20b7f81358b1a5.gif">
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://cdn.dribbble.com/userupload/21500334/file/original-cbf92297277a77c2cf20b7f81358b1a5.gif](https://cdn.dribbble.com/userupload/21500334/file/original-cbf92297277a77c2cf20b7f81358b1a5.gif)">
 
 - 🎓 **Systems Engineer** graduate from UPN (2015-2020)
 - 💼 Currently working as **Back End Developer Java** at **NTT DATA**
