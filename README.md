@@ -8,11 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=yairccepaya&label=Profile%20views&color=0047AB&style=flat-square" alt="Profile views" />
 </p>
 
----
-
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" style="max-width: 100%; height: auto; border-radius: 10px;" />
+</p>
 
 - 🎓 **Systems Engineer** graduate from UPN (2015-2020)  
 - 💼 Currently working as **Back End Developer Java** at **NTT DATA**  
@@ -23,7 +23,6 @@
 - 📍 Based in **Lima, Peru**  
 - 🗣️ Fluent in **Spanish** (native) and **English** (C1)  
 
----
 
 ## 💼 Professional Experience
 
