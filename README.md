@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=yairccepaya&label=Profile%20views&color=0047AB&style=flat-square" alt="Profile views" />
 </p>
 
+---
+
 ## 🚀 About Me
 
 <p align="center">
@@ -23,6 +25,7 @@
 - 📍 Based in **Lima, Peru**  
 - 🗣️ Fluent in **Spanish** (native) and **English** (C1)  
 
+---
 
 ## 💼 Professional Experience
 
@@ -92,4 +95,52 @@
 </p>
 
 ### Testing  
-<p align="c
+<p align="center">
+  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎓 Education & Certifications  
+- 🎓 **Bachelor's Degree in Systems Engineering** - UPN (2015-2020)  
+- 📜 **MongoDB with Java** - New Horizons (2021)  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:yalucepa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yair-ccepaya-diaz-8b976220b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yairccepaya">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yalucepadi&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 Key Achievements  
+- ✅ Successfully migrated legacy systems to microservices architecture  
+- ☁️ Implemented cloud-native solutions using Azure and Kubernetes  
+- 📱 Developed scalable backend APIs for mobile applications  
+- 🔧 Reduced incident response time through proactive monitoring and maintenance  
+- 🧪 Achieved high code coverage through comprehensive unit testing practices  
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together! 🚀</i>
+</p>
