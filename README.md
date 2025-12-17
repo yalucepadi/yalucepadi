@@ -18,7 +18,7 @@
 
 - 🎓 **Systems Engineer** graduate from UPN (2015-2020)  
 - 💼 Currently working as **Back End Developer Java** at **NTT DATA**  
-- 🔧 **5+ years** of experience in Back End development  
+- 🔧 **6+ years** of experience in Back End development  
 - ☁️ Specialized in **microservices architecture** and **cloud technologies**  
 - 📱 Experience in **web and Android mobile app development**  
 - 🌱 Always learning and adapting to new technologies  
