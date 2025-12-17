@@ -1,7 +1,7 @@
 # Hi there, I'm Yair Ccepaya Diaz 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;Back+End+Java+Developer;5%2B+Years+Experience;Microservices+Expert;Cloud+Technologies+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer;Back+End+Java+Developer;6%2B+Years+Experience;Microservices+Expert;Cloud+Technologies+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <p align="center">
